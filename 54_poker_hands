@@ -1,3 +1,0 @@
-f = open("0054_poker.txt", "r")
-print(f.read(29))
-f.close()
