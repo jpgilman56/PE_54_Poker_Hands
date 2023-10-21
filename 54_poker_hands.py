@@ -265,9 +265,8 @@ def hand_comparison(file):
 	print(player_wins)
 
 
-
-
-print(hand_comparison("0054_poker.txt"))
+if __name__ == "__main__":
+	print(hand_comparison("0054_poker.txt"))
 
 
 
